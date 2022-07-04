@@ -5,3 +5,5 @@ if g<n and g<v:
     print(g)
 elif n<g and n<v:
     print(n)
+elif v<g and v<n:
+    print(v)
