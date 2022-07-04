@@ -3,3 +3,5 @@ n = int(input('введите второе число'))
 v = int(input('введите третье число'))
 if g<n and g<v:
     print(g)
+elif n<g and n<v:
+    print(n)
