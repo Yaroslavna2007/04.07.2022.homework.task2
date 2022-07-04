@@ -7,3 +7,5 @@ elif n<g and n<v:
     print(n)
 elif v<g and v<n:
     print(v)
+elif g==v==g:
+    print('числа равны')
